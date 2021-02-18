@@ -19,3 +19,7 @@ The following features were developed:
 
 The model can be seen below...
 <img src="static/Lift_simulink.png" style="height: 400px">
+
+## Usage
+
+Requires MATLAB and SimuLink
